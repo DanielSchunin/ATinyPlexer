@@ -17,7 +17,7 @@ Software: Flash the microcontroller with the included Arduino project and integr
 Pinout & Technical Details
 Pins 0 and 2 utilize the standard internal pull-up resistors.
 
-Pin 1 has an LED hardwired to the internal resistor and therefore requires an external  pull-up resistor instead.
+Pin 1 has an LED hardwired to the internal resistor and therefore requires an external pull-up resistor instead.
 
 Pins 3 and 4 are reserved for USB communication.
 
