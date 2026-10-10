@@ -6,7 +6,9 @@ This HAT connects to the microcontroller via pogo pins, enabling the user to cho
 
 The board includes two control surfaces that can be broken off the main PCB to bridge the contacts. *3D-printable enclosure files will be provided as soon as they are completed.*
 
-![Board Image](./ATinyPlexer_render_front.png)
+![Board Image Front](./ATinyPlexer_render_front.png)
+
+![Board Image Back](./ATinyPlexer_render_back.png)
 
 ---
 
