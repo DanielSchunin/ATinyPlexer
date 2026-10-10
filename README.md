@@ -1,4 +1,5 @@
 Digispark ATtiny85 ATtinyPlexer
+
 The Digispark ATtiny85 is a highly capable portable device that excels at emulating mice and keyboards for automation tasks. However, it is constrained by its limited I/O when attempting to control the program or select a different program.
 
 This HAT connects to the microcontroller via pogo pins, enabling the user to choose one of 15 different signal combinations to control or select a program. It features two sliding control surfaces that bridge a combination of four pins. Pressing the button bridges them to ground, activating the signal.
